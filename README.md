@@ -12,7 +12,7 @@ This portfolio showcases my expertise and projects across a range of areas, incl
 
 ## 📂 Featured Projects
 
-### 1. [Titanic - Machine Learning from Disaster](link-to-repo)
+### 1. [Titanic - Machine Learning from Disaster](https://github.com/alex-wasdahl/titanic-prediction)
    - *Description*: Using machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
    - *Technology*: Python, Pandas, Numpy, Seaborn, Matplotlib, Data Visualization
    - *Highlights*: Achieved a top 15% accuracy rate.
