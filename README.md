@@ -21,7 +21,7 @@ This portfolio showcases my expertise and projects across a range of areas, incl
    - *Description*: R Projects from my teaching work with the Masters of Social Science (MaSS) program at UCLA
 
 ### 3. [C++ Projects](https://github.com/alex-wasdahl/c-projects)
-    - *Description*: Projects from my Computer Science coursework at UCLA
+   - *Description*: Projects from my Computer Science coursework at UCLA
 
 ### 4. [Sports Analytics Platform (coming soon)](link-to-repo)
    - *Description*: A data-driven platform for predictive analysis in sports. Developed models for performance prediction and match outcomes.
