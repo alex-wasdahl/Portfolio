@@ -1,4 +1,3 @@
-```markdown
 # 👋 Welcome to My GitHub Portfolio
 
 ## About Me
@@ -39,4 +38,4 @@ This portfolio showcases my expertise and projects across a range of areas, incl
 - **Email**: alexwasdahl16@gmail.com
 - **LinkedIn**: [linkedin.com/in/alexwasdahl](https://linkedin.com/in/alexwasdahl)
 - **Website**: [alexwasdahl.substack.com](https://alexwasdahl.substack.com)
-```
+
