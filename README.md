@@ -17,12 +17,18 @@ This portfolio showcases my expertise and projects across a range of areas, incl
    - *Technology*: Python, Pandas, Numpy, Seaborn, Matplotlib, Data Visualization
    - *Highlights*: Achieved a top 15% accuracy rate.
 
-### 2. [Sports Analytics Platform (coming soon)](link-to-repo)
+### 2. [R Projects](https://github.com/alex-wasdahl/mass-r-projects)
+   - *Description*: R Projects from my teaching work with the Masters of Social Science (MaSS) program at UCLA
+
+### 3. [C++ Projects](https://github.com/alex-wasdahl/c-projects)
+    - *Description*: Projects from my Computer Science coursework at UCLA
+
+### 4. [Sports Analytics Platform (coming soon)](link-to-repo)
    - *Description*: A data-driven platform for predictive analysis in sports. Developed models for performance prediction and match outcomes.
    - *Technology*: Python, scikit-learn, SQL, data visualization
    - *Highlights*: Demonstrated 85% accuracy in predictions across multiple sports categories.
 
-### 3. [Qualitative Research Toolkit (coming soon)](link-to-repo)
+### 5. [Qualitative Research Toolkit (coming soon)](link-to-repo)
    - *Description*: A toolkit designed for qualitative research analysis, inspired by leading methodologies and frameworks.
    - *Technology*: Python, Jupyter Notebooks
    - *Highlights*: Simplifies data collection, coding, and thematic analysis.
